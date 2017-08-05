@@ -15,4 +15,4 @@ translate(point2d(point1d(X), point1d(Y)), point2d(point1d(X1), point1d(Y1)), Z)
 	XTranslated is X + X1,
 	YTranslated is Y + Y1,
 	Z = point2d(point1d(XTranslated), point1d(YTranslated)).
-% test
+% test test
